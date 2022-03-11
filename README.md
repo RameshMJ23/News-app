@@ -2,7 +2,7 @@
 
 Regional news app 
 
-Video of the app:https://youtu.be/SIilAdYqgFE
+Video of the app: https://youtu.be/SIilAdYqgFE
 
 admin app: https://github.com/RameshMJ23/News-app-admin
 
